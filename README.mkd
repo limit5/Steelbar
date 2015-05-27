@@ -1,0 +1,16 @@
+# Steelbar
+
+## WHAT IS THIS:
+    鋼棒拉伸試驗用分析程式
+
+## LICENSE:
+[MIT](https://github.com/limit5/Steelbar/blob/master/LICENSE)
+
+## AUTHOR:
+[Limit5](https://github.com/limit5)
+
+## HOW TO DO:
+    載入實驗影像進行分析
+
+## SCREEN SHOT:
+![SteelbarAS](https://cloud.githubusercontent.com/assets/12613694/7843711/5ca5518a-04e6-11e5-9a78-409000c3b326.png)
