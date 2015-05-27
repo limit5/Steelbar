@@ -1,0 +1,8 @@
+LIBRARY AnalysisMethod
+EXPORTS
+	analysisMethod @1
+	getAnalysisName @2
+	getVersion @3
+	getCaption @4
+	getContinueType @5
+	freeDataMemory @6

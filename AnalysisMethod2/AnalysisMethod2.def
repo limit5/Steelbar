@@ -1,0 +1,6 @@
+LIBRARY AnalysisMethod2
+EXPORTS
+	analysisMethod @1
+	getAnalysisName @2
+	getVersion @3
+	getCaption @4

@@ -1,0 +1,3 @@
+double getCpusTime();
+double getWallTime();
+
